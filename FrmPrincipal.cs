@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AvaliacaoStreaming
 {
-    public partial class FrmPesquisarConteudo : Form
+    public partial class FrmPrincipal : Form
     {
-        public FrmPesquisarConteudo()
+        public FrmPrincipal()
         {
             InitializeComponent();
         }
